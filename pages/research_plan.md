@@ -13,4 +13,5 @@ title: Research Plan
 ### Interview few industry experts
 ### Refine models based on their inputs
 ## Conclusion
-###
+### Models and their limitations
+### Future scope
