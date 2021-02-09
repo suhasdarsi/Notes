@@ -8,5 +8,6 @@ title: Research Plan
 ### [[Triple Helix Model]]
 ## Method
 ### Find top universities in terms of research
+### Select 10 universities based on research & location.
 ###
 ## Conclusion
