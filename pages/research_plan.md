@@ -9,5 +9,8 @@ title: Research Plan
 ## Method
 ### Find top universities in terms of research
 ### Select 10 universities based on research & location.
-###
+### Propose Initial Models
+### Interview few industry experts
+### Refine models based on their inputs
 ## Conclusion
+###
