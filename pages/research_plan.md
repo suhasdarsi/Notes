@@ -6,4 +6,4 @@ title: Research Plan
 ## Related Work
 ### Systems Thinking
 ### Systems Thinking For Health Systems Strenghtening
-### Research
+###
