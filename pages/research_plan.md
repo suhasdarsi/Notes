@@ -2,4 +2,4 @@
 title: Research Plan
 ---
 
-## ## ((O))
+##
